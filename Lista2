@@ -307,8 +307,17 @@ https://d1u5e5hqx4pouy.cloudfront.net/hls1/band.m3u8?wmsAuthSign=
 #EXTINF:0 tvg-logo="" group-title="Aberto",RECORDTV
 https://d1u5e5hqx4pouy.cloudfront.net/hls1/recordsp-4040.ts
 
+#EXTINF:0 tvg-logo="" group-title="Aberto",RECORDTV ALTERNATIVO
+http://list.deeplist.nl/live/joaogabriel01/Gabi54321/47529.m3u8
+
 #EXTINF:0 tvg-logo="" group-title="Aberto",SBT
 https://d1u5e5hqx4pouy.cloudfront.net/hls1/sbt.m3u8?wmsAuthSign=
 
+#EXTINF:0 tvg-logo="" group-title="Aberto",SBT ALTERNATIVO
+http://list.deeplist.nl/live/joaogabriel01/Gabi54321/1208.m3u8
+
 #EXTINF:0 tvg-logo="" group-title="Aberto",GLOBO
 https://d1u5e5hqx4pouy.cloudfront.net/hls1/bobosp.m3u8?wmsAuthSign=
+
+#EXTINF:0 tvg-logo="" group-title="Aberto",GLOBO ALTERNATIVO
+http://list.deeplist.nl/live/joaogabriel01/Gabi54321/49719.m3u8
