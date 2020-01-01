@@ -223,9 +223,6 @@ https://d1u5e5hqx4pouy.cloudfront.net/hls1/discoverycivilization.m3u8?wmsAuthSig
 #EXTINF:0 tvg-logo="" group-title="Documentarios",DISCOVERY CHANNEL
 https://d1u5e5hqx4pouy.cloudfront.net/hls1/discovery.m3u8?wmsAuthSign=
 
-#EXTINF:0 tvg-logo="" group-title="Documentarios",DISCOVERY CHANNEL ALTERNATIVO
-http://list.deeplist.nl/live/joaogabriel01/Gabi54321/52605.m3u8
-
 #EXTINF:0 tvg-logo="" group-title="Documentarios",DISCOVERY TURBO
 https://d1u5e5hqx4pouy.cloudfront.net/hls1/discoveryturbo.m3u8?wmsAuthSign=
 
